@@ -13,3 +13,5 @@ firebase.json
 docs
 .psc-package
 *~
+.psc-ide-port
+.purs-repl
